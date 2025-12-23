@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://degirvsbse6ad"]
+
+[ext_resource type="Texture2D" uid="uid://dm088b8frob7f" path="res://assets/Grid.png" id="1_p0ybc"]
+
+[node name="Board" type="Sprite2D"]
+texture = ExtResource("1_p0ybc")
